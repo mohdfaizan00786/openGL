@@ -1,1 +1,2 @@
-containing programs of opeGl in c++.
+- containing programs of opeGl in c++.
+- Sun.cpp showing the effect of sun rising and sun set in graphic mode.
